@@ -51,3 +51,11 @@ Eat all the food items before the monster catches you. You win if your snake rea
 ![1728080973698](image/README/1728080973698.png) ![1728081019701](image/README/1728081019701.png)
 
 ![1728081150726](image/README/1728081150726.png) ![1728081315480](image/README/1728081315480.png)
+
+## Contributing
+
+   Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+   This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
